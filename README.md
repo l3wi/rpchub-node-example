@@ -27,3 +27,9 @@ npm i
 ```bash
 node index.js
 ```
+
+## Extending the script
+
+In order to use other functions of the hub you can check the `/proto` folder.
+
+In the `hub.proto` folder you'll find the various functions available on the Hub. In the `messages.proto` file you'll find the arguements and responses for each of these fucnctions.
